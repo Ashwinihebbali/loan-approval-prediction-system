@@ -30,8 +30,3 @@ npm run dev
 ```sh
 npm run build
 ```
-
-## Customization
-
-- Replace the branding assets in [public](public) to match your own product.
-- Update the model behavior in [src/lib/loan-model.json](src/lib/loan-model.json) and [src/lib/loan-predict.ts](src/lib/loan-predict.ts) as needed.
