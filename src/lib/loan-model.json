@@ -1,0 +1,223 @@
+{
+ "features": [
+  "no_of_dependents",
+  "income_annum",
+  "loan_amount",
+  "loan_term",
+  "cibil_score",
+  "residential_assets_value",
+  "commercial_assets_value",
+  "luxury_assets_value",
+  "bank_asset_value"
+ ],
+ "nodes": [
+  {
+   "leaf": false,
+   "f": "cibil_score",
+   "thr": 549.5,
+   "l": 1,
+   "r": 16
+  },
+  {
+   "leaf": false,
+   "f": "loan_term",
+   "thr": 5.0,
+   "l": 2,
+   "r": 15
+  },
+  {
+   "leaf": false,
+   "f": "loan_amount",
+   "thr": 26250000.0,
+   "l": 3,
+   "r": 10
+  },
+  {
+   "leaf": false,
+   "f": "income_annum",
+   "thr": 7050000.0,
+   "l": 4,
+   "r": 7
+  },
+  {
+   "leaf": false,
+   "f": "loan_amount",
+   "thr": 16050000.0,
+   "l": 5,
+   "r": 6
+  },
+  {
+   "leaf": true,
+   "p": 0.5533,
+   "n": 150
+  },
+  {
+   "leaf": true,
+   "p": 0.1333,
+   "n": 45
+  },
+  {
+   "leaf": false,
+   "f": "cibil_score",
+   "thr": 318.5,
+   "l": 8,
+   "r": 9
+  },
+  {
+   "leaf": true,
+   "p": 0.0,
+   "n": 2
+  },
+  {
+   "leaf": true,
+   "p": 0.9565,
+   "n": 46
+  },
+  {
+   "leaf": false,
+   "f": "residential_assets_value",
+   "thr": 5400000.0,
+   "l": 11,
+   "r": 14
+  },
+  {
+   "leaf": false,
+   "f": "residential_assets_value",
+   "thr": 5000000.0,
+   "l": 12,
+   "r": 13
+  },
+  {
+   "leaf": true,
+   "p": 0.0,
+   "n": 5
+  },
+  {
+   "leaf": true,
+   "p": 1.0,
+   "n": 1
+  },
+  {
+   "leaf": true,
+   "p": 0.0,
+   "n": 34
+  },
+  {
+   "leaf": true,
+   "p": 1.0,
+   "n": 1149
+  },
+  {
+   "leaf": false,
+   "f": "residential_assets_value",
+   "thr": 50000.0,
+   "l": 17,
+   "r": 24
+  },
+  {
+   "leaf": false,
+   "f": "luxury_assets_value",
+   "thr": 350000.0,
+   "l": 18,
+   "r": 19
+  },
+  {
+   "leaf": true,
+   "p": 1.0,
+   "n": 1
+  },
+  {
+   "leaf": false,
+   "f": "cibil_score",
+   "thr": 683.5,
+   "l": 20,
+   "r": 23
+  },
+  {
+   "leaf": false,
+   "f": "cibil_score",
+   "thr": 660.5,
+   "l": 21,
+   "r": 22
+  },
+  {
+   "leaf": true,
+   "p": 0.1538,
+   "n": 13
+  },
+  {
+   "leaf": true,
+   "p": 1.0,
+   "n": 2
+  },
+  {
+   "leaf": true,
+   "p": 0.0,
+   "n": 24
+  },
+  {
+   "leaf": false,
+   "f": "residential_assets_value",
+   "thr": 950000.0,
+   "l": 25,
+   "r": 32
+  },
+  {
+   "leaf": false,
+   "f": "loan_amount",
+   "thr": 30950000.0,
+   "l": 26,
+   "r": 29
+  },
+  {
+   "leaf": false,
+   "f": "commercial_assets_value",
+   "thr": 450000.0,
+   "l": 27,
+   "r": 28
+  },
+  {
+   "leaf": true,
+   "p": 0.0617,
+   "n": 81
+  },
+  {
+   "leaf": true,
+   "p": 0.0064,
+   "n": 157
+  },
+  {
+   "leaf": false,
+   "f": "no_of_dependents",
+   "thr": 2.5,
+   "l": 30,
+   "r": 31
+  },
+  {
+   "leaf": true,
+   "p": 0.0,
+   "n": 2
+  },
+  {
+   "leaf": true,
+   "p": 1.0,
+   "n": 1
+  },
+  {
+   "leaf": true,
+   "p": 0.0,
+   "n": 1702
+  }
+ ],
+ "importances": {
+  "no_of_dependents": 0.0009,
+  "income_annum": 0.0108,
+  "loan_amount": 0.0209,
+  "loan_term": 0.0837,
+  "cibil_score": 0.8801,
+  "residential_assets_value": 0.0023,
+  "commercial_assets_value": 0.0002,
+  "luxury_assets_value": 0.001,
+  "bank_asset_value": 0.0
+ }
+}
