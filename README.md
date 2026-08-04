@@ -1,4 +1,4 @@
-# Loan Decision Bot
+# Loan Decision Bot 
 
 Loan Decision Bot is a modern web app for exploring loan approval decisions using a lightweight rule-based prediction model. It combines a clean React interface with a local prediction engine so you can test applicant scenarios and view a decision explanation without needing a backend service.
 
